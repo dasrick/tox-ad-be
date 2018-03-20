@@ -1,0 +1,21 @@
+{
+  "name": "tox-ad-be",
+  "version": "0.0.0",
+  "description": "playground auth via activedirectoy for backend…",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/tox-ad-be.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/tox-ad-be/issues"
+  },
+  "homepage": "https://github.com/dasrick/tox-ad-be#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
